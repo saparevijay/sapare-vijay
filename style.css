@@ -1,0 +1,228 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#logo1{
+    width: 200px;  margin-bottom: 15px;border-radius: 120px; margin-left: auto;margin-right: auto;display: block;
+}
+.social{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    margin-bottom: auto;margin-right: auto;
+}
+#Gmail{
+    margin-left: 15%;margin-right: 15%;
+}
+#Linkedin{
+    margin-right: 15%;margin-left: 15%;
+}
+#Github{
+    background-color: white; margin-right: auto;margin-left: auto;
+}
+#downloadresume{
+    background-color: #ffc107;
+    font-size: 25px;
+    margin: 80px;
+    cursor: pointer;
+    font-family: "Lucida Console", "Courier New", monospace;
+    
+}
+#downloadresume:hover{
+    background-color: tomato;
+}
+#leftsided{
+    background-color: rgb(38, 38, 38);
+    width: 100%;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+#rightsided{
+    background-color: whitesmoke;
+    width: 100%;
+}
+.top3{
+    float: right;
+    margin: 30px;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    background-color: #b5963c;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+#top33{
+    float: right;
+}
+#portfolio{
+    font-size: 20px ;
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+}
+#lio{
+    color: red;
+    display: inline-block;
+}
+#top3{
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+    background-color: #ffc107;
+}
+
+#main{
+    border-top: 2px solid rgb(143, 111, 93);
+    width: 100%;
+}
+#name{
+    text-align: center;
+    font-size: 50px;
+    font-family: Impact, fantasy;
+}
+#occupation{
+    margin-bottom: 30px;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+#about5{
+    border-bottom: 3px solid #ffc107 ;
+    font-size: 50px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
+.aboutme{
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 150px;
+    font-family: Apple Chancery, cursive;
+}
+#resume{
+    border-bottom: 3px solid #ffc107 ;
+    font-size: 50px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+#certifications{
+    font-size: 35px;
+    text-decoration: underline;
+    text-decoration-color: rgb(35, 222, 104);
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+#oracle{
+    font-size: 30px;
+}
+#oracle1{
+    font-size: 25px;
+    font-family: Apple Chancery, cursive;
+}
+#dateoforacle{
+    margin-top: 50px;
+    font-size: 15px;
+}
+#education{
+    font-size: 35px;
+    margin-top: 50px;
+    text-decoration: underline;
+    text-decoration-color: rgb(35, 222, 104);
+    margin-bottom: 50px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+#inter{
+    font-size: 30px;
+}
+#inter1{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+#intermediate{
+    margin-top: 50px;
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+#btech{
+    font-size: 30px;
+    margin-top: 50px;
+}
+#btech1{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+#graduate{
+    margin-top: 50px;
+    font-size: 15px;
+}
+#skills{
+    font-size: 35px;
+    margin-top: 50px;
+    text-decoration: underline;
+    text-decoration-color: rgb(35, 222, 104);
+    margin-bottom: 50px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+#skills1{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+#techskills{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+#skilllist{
+    font-size: 25px;
+    margin-bottom: 15px;
+    font-family: Apple Chancery, cursive;
+}
+#techskilllist{
+    font-size: 25px;
+    font-family: Apple Chancery, cursive;
+}
+#hobby{
+    font-size: 35px;
+    margin-top: 50px;
+    text-decoration: underline;
+    text-decoration-color: rgb(35, 222, 104);
+    margin-bottom : 30px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.hobby1{
+    font-size: 25px;
+    font-family: Apple Chancery, cursive;
+}
+#contact{
+    margin-top: 80px;
+    border-bottom: 3px solid #ffc107 ;
+    font-size: 50px;
+    font-family: "Lucida Console", "Courier New", monospace;    
+}
+.contact1{
+    font-size: 15px;
+    font-family: Apple Chancery, cursive;
+}
+#contact2{
+    margin-bottom : 30px;
+}
+#footly{
+    text-align: center;
+}
+#oracle22{
+text-decoration: none;
+}
+#top33:hover{
+     text-decoration: underline;
+     text-decoration-color: green;
+     color: green;
+}
+#top32:hover{
+    text-decoration: underline;
+    text-decoration-color: green;
+    color: green;
+}
+#top31:hover{
+    text-decoration: underline;
+    text-decoration-color: green;
+    color: green;
+}
+#downloadresume1{
+    text-decoration: none;
+    color: black;
+}
